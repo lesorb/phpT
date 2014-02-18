@@ -2,8 +2,8 @@
 /**
  * TBase represents a template file being auto generated.
  *
- * @author Owen Wang <owen_wang@huatek.com>
- * @version $Id: TFile.php 2012-10-15 $
+ * @author Lesorb <lesorb@gmail.com>
+ * @version $Id: TBase.php 2012-10-15 $
  * @package common.TBase
  */
 class TBase {

@@ -5,7 +5,7 @@
  * @property CComponent $owner The owner component that this behavior is attached to.
  * @property boolean $enabled Whether this behavior is enabled.
  *
- * @author Owen Wang <owen_wang@huatek.com>
+ * @author Lesorb <lesorb@gmail.com>
  * @version $Id: TBehavior.php 2012-10-19 $
  * @package system.base
  */

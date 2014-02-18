@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * TMain define main application run engine.
+ *
+ * @author Lesorb <lesorb@gmail.com>
+ * @version $Id: TMain.php 2012-10-15 $
+ * @package common.TMain
+ */
 class TMain extends TObject{
 	
 	protected $_path = '';

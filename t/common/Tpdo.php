@@ -2,7 +2,7 @@
 /**
  * Tpdo initation intanse of PDO extend of PHP.
  *
- * @author Owen Wang <owen_wang@huatek.com>
+ * @author Lesorb <lesorb@gmail.com>
  * @version $Id: Tpdo.php 2012-10-15 $
  * @package common.Tpdo
  */

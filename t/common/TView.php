@@ -2,7 +2,7 @@
 /**
  * TView show view of template.
  *
- * @author Owen Wang <owen_wang@huatek.com>
+ * @author Lesorb <lesorb@gmail.com>
  * @version $Id: TView.php 2012-10-15 $
  * @package common.TView
  */

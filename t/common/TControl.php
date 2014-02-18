@@ -2,7 +2,7 @@
 /**
  * TControl represents a template file being auto generated.
  *
- * @author Owen Wang <owen_wang@huatek.com>
+ * @author Lesorb <lesorb@gmail.com>
  * @version $Id: TControl.php 2012-10-15 $
  * @package common.TControl
  */

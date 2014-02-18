@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * TObject base of object defination here .
+ *
+ * @author Lesorb <lesorb@gmail.com>
+ * @version $Id: TObject.php 2012-10-15 $
+ * @package common.TObject
+ */
 abstract class TObject{
 	
 	private $_e = null;
